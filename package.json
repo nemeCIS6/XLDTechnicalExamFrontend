@@ -41,7 +41,7 @@
     "mobx-persist": "^0.4.1",
     "mobx-react": "^5.4.3",
     "mobx-react-router": "^4.0.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.11.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "pnp-webpack-plugin": "1.1.0",
